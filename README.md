@@ -1,4 +1,4 @@
-bobble-dot-net
+Bobble .NET
 ==============
 
-Bobble .NET
+Puzzle Bobble written in C# using the .NET framework.
