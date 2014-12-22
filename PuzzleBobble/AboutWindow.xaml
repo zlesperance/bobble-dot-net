@@ -1,0 +1,20 @@
+﻿<Window x:Class="PuzzleBobble.AboutWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="About" Height="328.058" Width="300">
+    <Grid>
+        <Label Content="Puzzle Bobble: EWU Edition" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top"/>
+        <Label Content="Version 1.0" HorizontalAlignment="Left" Margin="10,36,0,0" VerticalAlignment="Top"/>
+        <Label Content="Written by Zach Lesperance" HorizontalAlignment="Left" Margin="10,62,0,0" VerticalAlignment="Top"/>
+        <Label Content="Copyright 2013" HorizontalAlignment="Left" Margin="10,88,0,0" VerticalAlignment="Top"/>
+        <RichTextBox IsDocumentEnabled="True" IsReadOnly="True" HorizontalAlignment="Left" Margin="10,118,0,0" VerticalAlignment="Top" Height="144" Width="274">
+            <FlowDocument>
+                <Paragraph>
+                    <Run Text="This game is based on Puzzle Bobble (A.K.A. Bust-A-Move), owned by the Taito Corporation. Details about the game can by found on the Wikipedia page here: http://en.wikipedia.org/wiki/Puzzle_Bobble"/>
+                </Paragraph>
+            </FlowDocument>
+        </RichTextBox>
+        <Button x:Name="bubbleAboutClose" Content="Close" HorizontalAlignment="Left" Margin="209,267,0,0" VerticalAlignment="Top" Width="75" Click="bubbleAboutClose_Click"/>
+
+    </Grid>
+</Window>

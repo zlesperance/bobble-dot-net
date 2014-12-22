@@ -1,0 +1,28 @@
+﻿<Window x:Class="PuzzleBobble.RulesWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="How To Play" Height="400" Width="400">
+    <Grid>
+        <RichTextBox HorizontalAlignment="Left" Height="329" Margin="10,10,0,0" VerticalAlignment="Top" Width="374">
+            <FlowDocument>
+                <Paragraph>
+                    The goal of the game is to remove all of the bubbles from the play field. Bubbles may be removed in one of two ways: Popping or Dropping.
+                </Paragraph>
+                <Paragraph>
+                    You can pop a bubble by connecting three or more bubbles of the same color. The bubbles will then be removed and you will be awarded 10 points for each bubble popped this way.
+                </Paragraph>
+                <Paragraph>
+                    If popped bubbles are holding other bubbles to the ceiling, the after the bubbles are popped, the seperated bubbles will drop and be removed from the play field. The amount of points you recieve for each dropped bubble depends on how many are dropped at once; The more you drop, the more points you earn!
+                </Paragraph>
+                <Paragraph>
+                    The round ends when no bubbles remain on the playing field. The next level is then loaded.
+                </Paragraph>
+                <Paragraph>
+                    The ceiling will fall every once in a while (the frequency depends on the number of bubble colors remaining). If the bubbles reach the red line near the bottom of the play field, it's Game Over.
+                </Paragraph>
+            </FlowDocument>
+        </RichTextBox>
+        <Button x:Name="buttonRulesClose" Content="Close" HorizontalAlignment="Left" Margin="309,344,0,0" VerticalAlignment="Top" Width="75" Click="buttonRulesClose_Click"/>
+
+    </Grid>
+</Window>

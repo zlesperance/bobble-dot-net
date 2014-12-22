@@ -1,0 +1,16 @@
+D:\Documents\EWU\CSCD371\Projects\PuzzleBobble\PuzzleBobble\bin\Release\PuzzleBobble.exe.config
+D:\Documents\EWU\CSCD371\Projects\PuzzleBobble\PuzzleBobble\bin\Release\PuzzleBobble.exe
+D:\Documents\EWU\CSCD371\Projects\PuzzleBobble\PuzzleBobble\bin\Release\PuzzleBobble.pdb
+D:\Documents\EWU\CSCD371\Projects\PuzzleBobble\PuzzleBobble\obj\Release\MainWindow.baml
+D:\Documents\EWU\CSCD371\Projects\PuzzleBobble\PuzzleBobble\obj\Release\MainWindow.g.cs
+D:\Documents\EWU\CSCD371\Projects\PuzzleBobble\PuzzleBobble\obj\Release\App.g.cs
+D:\Documents\EWU\CSCD371\Projects\PuzzleBobble\PuzzleBobble\obj\Release\PuzzleBobble_MarkupCompile.cache
+D:\Documents\EWU\CSCD371\Projects\PuzzleBobble\PuzzleBobble\obj\Release\PuzzleBobble.g.resources
+D:\Documents\EWU\CSCD371\Projects\PuzzleBobble\PuzzleBobble\obj\Release\PuzzleBobble.Properties.Resources.resources
+D:\Documents\EWU\CSCD371\Projects\PuzzleBobble\PuzzleBobble\obj\Release\PuzzleBobble.csproj.GenerateResource.Cache
+D:\Documents\EWU\CSCD371\Projects\PuzzleBobble\PuzzleBobble\obj\Release\PuzzleBobble.exe
+D:\Documents\EWU\CSCD371\Projects\PuzzleBobble\PuzzleBobble\obj\Release\PuzzleBobble.pdb
+D:\Documents\EWU\CSCD371\Projects\PuzzleBobble\PuzzleBobble\obj\Release\AboutWindow.baml
+D:\Documents\EWU\CSCD371\Projects\PuzzleBobble\PuzzleBobble\obj\Release\RulesWindow.baml
+D:\Documents\EWU\CSCD371\Projects\PuzzleBobble\PuzzleBobble\obj\Release\AboutWindow.g.cs
+D:\Documents\EWU\CSCD371\Projects\PuzzleBobble\PuzzleBobble\obj\Release\RulesWindow.g.cs
